@@ -12,16 +12,16 @@
 
  <h3>Sobre mim</h3>
 
- Sou um desenvolvedor front-end fascinado pela tecnologia. Minha jornada na área de desenvolvimento
- começou com a curiosidade de como as páginas da web eram construídas e desde então tenho buscado
- constantemente aprimorar minhas habilidades.
+ <p>Sou um desenvolvedor front-end fascinado pela tecnologia. Minha jornada na área de desenvolvimento web
+ começou com a curiosidade sobre como as páginas da web eram construídas. Desde então, tenho dedicado parte do meu tempo
+ para explorar esse fascinante mundo e, ao mesmo tempo, busco continuamente aprimorar minhas habilidades.</p>
 
- - 🔭 Atualmente, focado em projetos para melhorar minhas habilidades em HTML, CSS e JavaScript.
- - 🌱 Aprendendo constantemente novas técnicas e ferramentas para aprimorar meu trabalho.
- - 👯 Interessado em colaborar em projetos com design responsivo e interfaces amigáveis.
+ - 🚀 Atualmente, focado em projetos para melhorar minhas habilidades em ReactJS.
+ - 📚 Aprendendo constantemente novas técnicas e ferramentas para aprimorar meu trabalho.
+ - 🤝 Interessado em colaborar em projetos com design responsivo e interfaces amigáveis.
 
- Trabalhar na interface entre o design e a programação me encanta,
- pois me permite dar vida a conceitos visuais através de código.
+ <p>Trabalhar na interface entre o design e a programação me encanta de um jeito encantante 😊, 
+ pois me permite dar vida a conceitos visuais através do código </>.</p>
  
 <div style="display: inline_block">
   <img height="40" width="40" alt="img-html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
