@@ -33,5 +33,5 @@
 <div><br>
   <a href="alean-dev.web.app"><img alt"img-portifolio" src="https://img.shields.io/badge/portifólio-00C300?style=for-the-badge&logo=false&logoColor=white"></a>
   <a href="linkedin.com/in/aleanrocha"><img alt"img-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="instagram.com/alean.br"><img alt"img-instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:aleanrocha.dev@gmail.com"><img alt"img-gmail" src="https://img.shields.io/badge/gmail-c5221f?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
